@@ -17,12 +17,12 @@ It could be in terms of main responsiblities, objectives, deliverables. Anything
 ## Recruitment
 Hiring people into your team is probably the most crucial task on your engineering manager list. Without the right people, nothing will move forward. The following are observations/rules of thumb and resources that might come in hand.
 
-`1. Hire Slowly`
-`2. Always Make a Hands-On Case Interview `
-`3. Actively Recruit on Community Sites Like Stackoverflow or Github`
-`4. Go for great talend and not longetivity`
-`5. Culture and personality fit over coding excellency`
-`6. Aim for people that build things in their own free time`
+1. Hire Slowly
+2. Always Make a Hands-On Case Interview
+3. Actively Recruit on Community Sites Like Stackoverflow or Github
+4. Go for great talend and not longetivity
+5. Culture and personality fit over coding excellency
+6. Aim for people that build things in their own free time
 
 * [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
 ## Objectives Key Results (OKRs)
@@ -35,7 +35,7 @@ Should you follow the Scrum to the point that everyone is an engineer/developer 
 ## People Development
 You need to make sure that you and your reports find together the *hyperdrive* that will keep them engaged and motivated in their career. This is illustrated as follows.
 ![Motivation Hyperdrive](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8cd607ad-b6f9-483f-b5fe-95f892e333a0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T113647Z&X-Amz-Expires=86400&X-Amz-Signature=b4bc19e4cbdd3595e8f6afdf00cc2c6d6c54fa3a790c21b6e3b3cf5b057bb748&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-I do not recall the source of the 
+
 ## 1-1s
 ### First 1-1 With Your New Report
 
@@ -61,9 +61,3 @@ The following list of books are not a must read but a *very nice to read* and wh
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 See the explanation of the [MIT License](https://opensource.org/licenses/MIT) here..
-
-<style type="text/css">
-    table img {
-        width: 100px;
-    }
-</style>
