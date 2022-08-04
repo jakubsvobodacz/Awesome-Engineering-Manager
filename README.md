@@ -36,6 +36,7 @@ Should you follow the Scrum to the point that everyone is an engineer/developer 
 You need to make sure that you and your reports find together the *hyperdrive* that will keep them engaged and motivated in their career. This is illustrated as follows.
 ![Motivation Hyperdrive](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8cd607ad-b6f9-483f-b5fe-95f892e333a0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T113647Z&X-Amz-Expires=86400&X-Amz-Signature=b4bc19e4cbdd3595e8f6afdf00cc2c6d6c54fa3a790c21b6e3b3cf5b057bb748&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
+test
 ## 1-1s
 ### First 1-1 With Your New Report
 
