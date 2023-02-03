@@ -34,11 +34,14 @@ The aim of this repository is to provide a curated list of resources for, begine
 ## The Technology
 ### Code Reviews
 * [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
+### Architecture
+* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
 
 ### Version Control
 * [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
-## The Product
+* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
+* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
 ### Prioritization
 * [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
 ## The Process
