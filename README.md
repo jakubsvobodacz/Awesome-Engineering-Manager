@@ -56,6 +56,8 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 * [Building Great Software Engineering Teams: Recruiting, Hiring, and Managing Your Team from Startup to Success](https://www.goodreads.com/book/show/26341904-building-great-software-engineering-teams)
+* [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+* [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
