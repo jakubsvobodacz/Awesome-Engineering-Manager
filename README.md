@@ -1,6 +1,6 @@
 ![engineering manager hub](images/banner.jpeg)
-# Engineering Manager Hub
-The aim of this repository is to provide a curated list of resources for, begineer as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
+# Awesome Engineering Manager
+The aim of this repository is to provide a curated list of resources for, beginner as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
 ## Table of Contents
   * [The Team](#the-team)
   * [The Technology](#the-technology)
@@ -34,24 +34,33 @@ The aim of this repository is to provide a curated list of resources for, begine
 ## The Technology
 ### Code Reviews
 * [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
-
+* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+### Architecture
+* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
 ### Version Control
 * [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
+* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
 ## The Product
 ### Prioritization
 * [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
 ## The Process
 ### Objectives Key Results (OKRs)
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
-### Engineering Productivity
+### Engineering Productivity & Culture
 * [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
+* [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
+* [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
+* [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
 ### Agile methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 * [Building Great Software Engineering Teams: Recruiting, Hiring, and Managing Your Team from Startup to Success](https://www.goodreads.com/book/show/26341904-building-great-software-engineering-teams)
+* [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+* [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
