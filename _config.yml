@@ -1,0 +1,16 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
