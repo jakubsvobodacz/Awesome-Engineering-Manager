@@ -1,6 +1,6 @@
 ![engineering manager hub](images/banner.jpeg)
-# Engineering Manager Hub
-The aim of this repository is to provide a curated list of resources for, begineer as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
+# Awesome Engineering Manager
+The aim of this repository is to provide a curated list of resources for, beginner as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
 ## Table of Contents
   * [The Team](#the-team)
   * [The Technology](#the-technology)
@@ -42,6 +42,7 @@ The aim of this repository is to provide a curated list of resources for, begine
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
+## The Product
 ### Prioritization
 * [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
 ## The Process
@@ -49,6 +50,8 @@ The aim of this repository is to provide a curated list of resources for, begine
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
 ### Engineering Productivity
 * [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
+* [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
+* [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
