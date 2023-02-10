@@ -34,6 +34,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ## The Technology
 ### Code Reviews
 * [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
+* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 ### Architecture
 * [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
 
@@ -48,10 +49,11 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ## The Process
 ### Objectives Key Results (OKRs)
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
-### Engineering Productivity
+### Engineering Productivity & Culture
 * [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
 * [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
+* [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
