@@ -46,6 +46,8 @@ The aim of this repository is to provide a curated list of resources for, begine
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
 ### Engineering Productivity
 * [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
+### Agile methodologies
+* [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
