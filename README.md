@@ -13,6 +13,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
 * [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
 * [How to excel in engineering management](https://developers.mews.com/accomplishment-as-a-manager/)
+* [How To Get In Control of Your Time As An Engineering Manager?](https://medium.com/@jakubsvobodacz/how-to-get-in-control-of-your-time-as-an-engineering-manager-48385d881c1e)
 
 ### Team Structure
 * [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
@@ -53,7 +54,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
 * [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
-### Agile methodologies
+### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
