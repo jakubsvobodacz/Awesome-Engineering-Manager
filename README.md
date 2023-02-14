@@ -54,7 +54,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
 * [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
-### Agile methodologies
+### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 ## Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
