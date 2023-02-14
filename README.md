@@ -13,6 +13,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
 * [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
 * [How to excel in engineering management](https://developers.mews.com/accomplishment-as-a-manager/)
+* [How To Get In Control of Your Time As An Engineering Manager?](https://medium.com/@jakubsvobodacz/how-to-get-in-control-of-your-time-as-an-engineering-manager-48385d881c1e)
 
 ### Team Structure
 * [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
