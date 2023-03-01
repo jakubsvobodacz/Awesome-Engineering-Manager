@@ -12,12 +12,13 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/)
 * [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
 * [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
-* [How to excel in engineering management](https://developers.mews.com/accomplishment-as-a-manager/)
 * [How To Get In Control of Your Time As An Engineering Manager?](https://medium.com/@jakubsvobodacz/how-to-get-in-control-of-your-time-as-an-engineering-manager-48385d881c1e)
 
 ### Team Structure
 * [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
 * [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
+* [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in)
+* [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team)
 ### Recruitment
 * [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
 * [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/)
@@ -36,6 +37,10 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Code Reviews
 * [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
 * [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+
+### Coding Practices
+* [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/)
+
 ### Architecture
 * [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
 ### Version Control
