@@ -12,7 +12,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/)
 * [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
 * [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
-* [How To Get In Control of Your Time As An Engineering Manager?](https://medium.com/@jakubsvobodacz/how-to-get-in-control-of-your-time-as-an-engineering-manager-48385d881c1e)
+* [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db)
 
 ### Team Structure
 * [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
@@ -49,16 +49,21 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
 ## The Product
+### General
+* [The Product Trio](https://www.producttalk.org/2021/05/product-trio/)
 ### Prioritization
 * [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
-## The Process
-### Objectives Key Results (OKRs)
+### Objective Key Results (OKRs)
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
-### Engineering Productivity & Culture
+* [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
+## The Process
+### Engineering Productivity
 * [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
 * [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
+### Engineering Culture
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
+* [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 ## Recommended Books
