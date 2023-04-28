@@ -8,7 +8,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
   * [The Process](#the-process)
  
 ## The Team
-### Engineering Manager
+### Engineering Manager Role
 * [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/)
 * [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
 * [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
@@ -70,7 +70,12 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
-## Recommended Books
+
+## Personal Development
+
+### General
+* [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
+### Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 * [Building Great Software Engineering Teams: Recruiting, Hiring, and Managing Your Team from Startup to Success](https://www.goodreads.com/book/show/26341904-building-great-software-engineering-teams)
