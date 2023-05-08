@@ -1,4 +1,3 @@
-![engineering manager hub](images/banner.jpeg)
 # Awesome Engineering Manager
 The aim of this repository is to provide a curated list of resources for, beginner as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
 ## Table of Contents
@@ -6,6 +5,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
   * [The Technology](#the-technology)
   * [The Product](#the-product)
   * [The Process](#the-process)
+  * [Personal Development](#personal-development)
  
 ## The Team
 ### Engineering Manager Role
@@ -29,6 +29,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Mews Systems - Career Track](https://github.com/MewsSystems/org/blob/main/tech/career-framework/career-tracks/readme.md)
 * [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)
 * [EngineeringLadders.com](http://www.engineeringladders.com/)
+* [Career Ladders from Sarah Drasner](https://career-ladders.dev/)
 
 ### 1-1s
 * [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/)
@@ -72,7 +73,6 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 
 ## Personal Development
-
 ### General
 * [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
 ### Recommended Books
