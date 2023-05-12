@@ -56,8 +56,9 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ## The Product
 ### General
 * [The Product Trio](https://www.producttalk.org/2021/05/product-trio/)
-### Prioritization
+### Prioritization & Roadmapping
 * [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
+* [Why “Now” “Next” “Later” is one of the best frameworks for roadmapping](https://medium.com/the-creative-strategist/why-now-next-later-is-one-of-the-best-frameworks-for-roadmapping-4d547a2f2692)
 ### Objective Key Results (OKRs)
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
 * [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
