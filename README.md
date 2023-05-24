@@ -72,6 +72,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
+* [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/)
 
 ## Personal Development
 ### General
