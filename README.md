@@ -86,6 +86,10 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)
 * [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/29939161-radical-candor)
 
+### Engineering Leadership Communities
+* [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/)
+* [ELC - Home for Engineering Leaders](https://elc.community/)
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
