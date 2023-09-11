@@ -15,6 +15,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db)
 
 ### Team Structure
+* [How to mix junior and senior engineers on a team](https://leaddev.com/team/how-mix-junior-and-senior-engineers-team)
 * [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
 * [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
 * [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in)
