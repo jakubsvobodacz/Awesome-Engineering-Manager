@@ -31,6 +31,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)
 * [EngineeringLadders.com](http://www.engineeringladders.com/)
 * [Career Ladders from Sarah Drasner](https://career-ladders.dev/)
+* [Career framework inspiration from the world's best companies.](https://progression.fyi/)
 
 ### 1-1s
 * [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/)
@@ -48,6 +49,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 * [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee)
 * [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
+* [Roadmaps.sh - best practices & roadmaps)](https://roadmap.sh/)
 
 ### Version Control
 * [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)
