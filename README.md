@@ -20,6 +20,8 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
 * [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in)
 * [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team)
+### Organizational Structure
+* [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
 ### Recruitment
 * [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
 * [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/)
