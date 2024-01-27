@@ -91,6 +91,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 * [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)
 * [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/29939161-radical-candor)
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/cs/book/show/45303387)
 
 ### Engineering Leadership Communities
 * [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/)
