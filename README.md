@@ -78,6 +78,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 * [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/)
+* [Lessons Learned in Dual Track Agile](https://medium.com/gitconnected/lessons-learned-in-dual-track-agile-0a275e558559)
 
 ## Personal Development
 ### General
@@ -90,12 +91,14 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 * [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)
 * [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/29939161-radical-candor)
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/cs/book/show/45303387)
 
 ### Engineering Leadership Communities
-* [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/)
-* [ELC - Home for Engineering Leaders](https://elc.community/)
+* [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/) - Online community with conferences in Europe and US
+* [ELC - Home for Engineering Leaders](https://elc.community/) - Online based community with meetups and conferences in US
+* [Engineering Leaders CZ](https://talkbase.io/company/engineering-leaders-cz) - In-person based community in Prague, CZ
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-See the explanation of the [MIT License](https://opensource.org/licenses/MIT) here..
+See the explanation of the [MIT License](https://opensource.org/licenses/MIT) here.
