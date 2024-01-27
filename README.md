@@ -78,6 +78,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 * [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/)
+* [Lessons Learned in Dual Track Agile](https://medium.com/gitconnected/lessons-learned-in-dual-track-agile-0a275e558559)
 
 ## Personal Development
 ### General
