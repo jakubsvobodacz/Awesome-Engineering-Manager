@@ -94,10 +94,11 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/cs/book/show/45303387)
 
 ### Engineering Leadership Communities
-* [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/)
-* [ELC - Home for Engineering Leaders](https://elc.community/)
+* [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/) - Online community with conferences in Europe and US
+* [ELC - Home for Engineering Leaders](https://elc.community/) - Online based community with meetups and conferences in US
+* [Engineering Leaders CZ](https://talkbase.io/company/engineering-leaders-cz) - In-person based community in Prague, CZ
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-See the explanation of the [MIT License](https://opensource.org/licenses/MIT) here..
+See the explanation of the [MIT License](https://opensource.org/licenses/MIT) here.
