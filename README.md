@@ -9,22 +9,22 @@ The aim of this repository is to provide a curated list of resources for, beginn
  
 ## The Team
 ### Engineering Manager Role
-* [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/)
-* [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
-* [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
-* [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db)
+* [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/) - discusses where to draw the line between tech lead's and enginering manager's responsibilities
+* [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering) - discusses where and how product managers, tech leads and engineering managers overlap in responsiblities and why do we have, in an ideal state, all three roles in place; beware that the article is behind a paywall
+* [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/) - sometimes, it is hard to acknowledge whether your work as an engineering manager is actually bringing some fruits; this article helps you with a few tips to gain a sense of acomplishment in your work
+* [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db) - my summary of the top three challenges of any new engineering manager
 
 ### Team Structure
-* [How to mix junior and senior engineers on a team](https://leaddev.com/team/how-mix-junior-and-senior-engineers-team)
-* [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
-* [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
-* [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in)
-* [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team)
+* [How to mix junior and senior engineers on a team](https://leaddev.com/team/how-mix-junior-and-senior-engineers-team) - my thoughts on how seniority plays a critical role in your software engineering team structure where the main idea is to keep a constant inflow of junior profiles that you continuously develop into seniors
+* [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066) - should you have a dedicated QA engineers or should everyone be QA by default in order to properly test their changes
+* [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team) - an interview style of article summarizing aspects of building high-performing software engineering teams where hiring the right people with great attitude forms the most important basis
+* [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in) - Here Luca Rossi takes a look at the differences between juniors and senior from the following angles: skills, processes, hiring and growth space
+* [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team) - Interesting thread on software engineering stack exchange debating when to use all junior or all senior teams or what aspects should be considered like time, money, energy and knowledge of the engineers
 ### Organizational Structure
-* [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
+* [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6) - In this nicely detailed article, the author walks through the process of aligning human and tech parts of the organization. The inspiration is take from the book Team Topologies (also listed below) and principles of DDD
 ### Recruitment
-* [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
-* [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/)
+* [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066) - really handy summary of short advices to follow across many critical engineering management areas like communication, hiring, delivery, requirements management and many other
+* [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/) - highly recommend this article if you are writing your first job ad for a software engineer role; it comes with some foundational advice on what to make sure you include or exclude when forming your job ad
 
 ### People Development
 * [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7)
