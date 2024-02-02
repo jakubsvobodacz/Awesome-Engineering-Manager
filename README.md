@@ -27,16 +27,15 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/) - highly recommend this article if you are writing your first job ad for a software engineer role; it comes with some foundational advice on what to make sure you include or exclude when forming your job ad
 
 ### People Development
-* [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7)
+* [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7) - Ikigai is a well-known japanese concept of finding the sweet spot of what you are good at, what you love, what the world needs and what can you get paid for; this article aims specifically on a software engineer's ikigai
 ### Career Track for Software Engineers
-* [Mews Systems - Career Track](https://github.com/MewsSystems/org/blob/main/tech/career-framework/career-tracks/readme.md)
-* [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)
-* [EngineeringLadders.com](http://www.engineeringladders.com/)
-* [Career Ladders from Sarah Drasner](https://career-ladders.dev/)
-* [Career framework inspiration from the world's best companies.](https://progression.fyi/)
+* [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html) - a great example of career progression path from Etsy that is publicly available for inspiration
+* [EngineeringLadders.com](http://www.engineeringladders.com/) - great framework that helps out with planning career progression for software engineers
+* [Career Ladders from Sarah Drasner](https://career-ladders.dev/) - career framework with examples and descriptions from the author of the Engineering Management for the Rest of Us - Sarah Drasner
+* [Career framework inspiration from the world's best companies.](https://progression.fyi/) - many different career frameworks from tech companies all over the world
 
 ### 1-1s
-* [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/)
+* [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/) - debates the basiscs of a 1-1 meeting for an engineering manager and his or her report e.g. why to even have 1-1 meeting regularly
 
 ## The Technology
 ### Code Reviews
