@@ -39,11 +39,11 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ## The Technology
 ### Code Reviews
-* [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
-* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+* [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team) - Talks about two simple steps to improve your code review process - maximize focus on non-trivial issues and set rules on healthy code review culture
+* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/) - A very detailed guide on how to do a code review at Google - it gives good inspiration to set up a good rules, culture and requirements for a code review
 
 ### Coding Practices
-* [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/)
+* [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/) - explains how the EditorConfig file can help to define formatting in your project files and also enforce the standard, so that all team members comply with it
 
 ### Architecture
 * [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
