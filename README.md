@@ -33,6 +33,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [EngineeringLadders.com](http://www.engineeringladders.com/) - great framework that helps out with planning career progression for software engineers
 * [Career Ladders from Sarah Drasner](https://career-ladders.dev/) - career framework with examples and descriptions from the author of the Engineering Management for the Rest of Us - Sarah Drasner
 * [Career framework inspiration from the world's best companies.](https://progression.fyi/) - many different career frameworks from tech companies all over the world
+* [Roadmaps.sh - best practices & roadmaps)](https://roadmap.sh/) - a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 
 ### 1-1s
 * [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/) - debates the basiscs of a 1-1 meeting for an engineering manager and his or her report e.g. why to even have 1-1 meeting regularly
@@ -46,14 +47,13 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/) - explains how the EditorConfig file can help to define formatting in your project files and also enforce the standard, so that all team members comply with it
 
 ### Architecture
-* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
-* [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
-* [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee)
-* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
-* [Roadmaps.sh - best practices & roadmaps)](https://roadmap.sh/)
+* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622) - explains how to use Structurizr DSL to code and version control your software architecture diagrams
+* [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - the basics of architecture decision records (ADRs)
+* [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee) - more thoughts on architecture decision records (ADRs)
+* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record) - more thoughts on architecture decision records (ADRs)
 
 ### Version Control
-* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)
+* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - 
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
