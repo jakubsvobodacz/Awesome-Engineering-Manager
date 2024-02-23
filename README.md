@@ -9,52 +9,51 @@ The aim of this repository is to provide a curated list of resources for, beginn
  
 ## The Team
 ### Engineering Manager Role
-* [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/)
-* [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering)
-* [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/)
-* [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db)
+* [Engineering manager vs. tech lead -- which is better?](https://www.rubick.com/engineering-manager-vs-tech-lead/) - discusses where to draw the line between tech lead's and enginering manager's responsibilities
+* [Tech Lead vs Engineering Manager 👑](https://refactoring.fm/p/the-role-of-tech-leads-and-engineering) - discusses where and how product managers, tech leads and engineering managers overlap in responsiblities and why do we have, in an ideal state, all three roles in place; beware that the article is behind a paywall
+* [Gaining a sense of acomplishment as a manager](https://developers.mews.com/accomplishment-as-a-manager/) - sometimes, it is hard to acknowledge whether your work as an engineering manager is actually bringing some fruits; this article helps you with a few tips to gain a sense of acomplishment in your work
+* [The Top 3 Challenges of A New Engineering Manager And How To Overcome Them](https://medium.com/@jakubsvobodacz/the-top-3-challenges-of-a-new-engineering-manager-590ac23ec8db) - my summary of the top three challenges of any new engineering manager
 
 ### Team Structure
-* [How to mix junior and senior engineers on a team](https://leaddev.com/team/how-mix-junior-and-senior-engineers-team)
-* [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066)
-* [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
-* [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in)
-* [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team)
+* [How to mix junior and senior engineers on a team](https://leaddev.com/team/how-mix-junior-and-senior-engineers-team) - my thoughts on how seniority plays a critical role in your software engineering team structure where the main idea is to keep a constant inflow of junior profiles that you continuously develop into seniors
+* [Dedicated QA vs. Developer/Engineering Testing](https://www.informit.com/articles/article.aspx?p=1984066) - should you have a dedicated QA engineers or should everyone be QA by default in order to properly test their changes
+* [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team) - an interview style of article summarizing aspects of building high-performing software engineering teams where hiring the right people with great attitude forms the most important basis
+* [Mixing Seniority in Engineering Teams](https://refactoring.fm/p/the-benefits-of-mixed-seniority-in) - Here Luca Rossi takes a look at the differences between juniors and senior from the following angles: skills, processes, hiring and growth space
+* [What is the ideal mix of senior to junior developers on a team?](https://softwareengineering.stackexchange.com/questions/775/what-is-the-ideal-mix-of-senior-to-junior-developers-on-a-team) - Interesting thread on software engineering stack exchange debating when to use all junior or all senior teams or what aspects should be considered like time, money, energy and knowledge of the engineers
 ### Organizational Structure
-* [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
+* [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6) - In this nicely detailed article, the author walks through the process of aligning human and tech parts of the organization. The inspiration is take from the book Team Topologies (also listed below) and principles of DDD
 ### Recruitment
-* [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
-* [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/)
+* [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066) - really handy summary of short advices to follow across many critical engineering management areas like communication, hiring, delivery, requirements management and many other
+* [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/) - highly recommend this article if you are writing your first job ad for a software engineer role; it comes with some foundational advice on what to make sure you include or exclude when forming your job ad
 
 ### People Development
-* [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7)
+* [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7) - Ikigai is a well-known japanese concept of finding the sweet spot of what you are good at, what you love, what the world needs and what can you get paid for; this article aims specifically on a software engineer's ikigai
 ### Career Track for Software Engineers
-* [Mews Systems - Career Track](https://github.com/MewsSystems/org/blob/main/tech/career-framework/career-tracks/readme.md)
-* [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)
-* [EngineeringLadders.com](http://www.engineeringladders.com/)
-* [Career Ladders from Sarah Drasner](https://career-ladders.dev/)
-* [Career framework inspiration from the world's best companies.](https://progression.fyi/)
+* [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html) - a great example of career progression path from Etsy that is publicly available for inspiration
+* [EngineeringLadders.com](http://www.engineeringladders.com/) - great framework that helps out with planning career progression for software engineers
+* [Career Ladders from Sarah Drasner](https://career-ladders.dev/) - career framework with examples and descriptions from the author of the Engineering Management for the Rest of Us - Sarah Drasner
+* [Career framework inspiration from the world's best companies.](https://progression.fyi/) - many different career frameworks from tech companies all over the world
+* [Roadmaps.sh - best practices & roadmaps)](https://roadmap.sh/) - a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 
 ### 1-1s
-* [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/)
+* [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/) - debates the basiscs of a 1-1 meeting for an engineering manager and his or her report e.g. why to even have 1-1 meeting regularly
 
 ## The Technology
 ### Code Reviews
-* [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team)
-* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+* [How to build an effective code review process for your team](https://leaddev.com/code-reviews-docs/how-build-effective-code-review-process-your-team) - Talks about two simple steps to improve your code review process - maximize focus on non-trivial issues and set rules on healthy code review culture
+* [Google Engineering Practices - How to do a code review](https://google.github.io/eng-practices/review/reviewer/) - A very detailed guide on how to do a code review at Google - it gives good inspiration to set up a good rules, culture and requirements for a code review
 
 ### Coding Practices
-* [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/)
+* [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/) - explains how the EditorConfig file can help to define formatting in your project files and also enforce the standard, so that all team members comply with it
 
 ### Architecture
-* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622)
-* [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
-* [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee)
-* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
-* [Roadmaps.sh - best practices & roadmaps)](https://roadmap.sh/)
+* [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622) - explains how to use Structurizr DSL to code and version control your software architecture diagrams
+* [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - the basics of architecture decision records (ADRs)
+* [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee) - more thoughts on architecture decision records (ADRs)
+* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record) - more thoughts on architecture decision records (ADRs)
 
 ### Version Control
-* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)
+* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - 
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
