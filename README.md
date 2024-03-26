@@ -57,6 +57,14 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
+
+### Observability
+* [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) - the main website of a widely used observability framework and toolkit that helps you collect and manage telemetry data like metrics, logs and traces and can be integrated in many widely used tools like Elastic
+* [Observability: Building Organizational Understanding](https://www.youtube.com/watch?v=wgZhQtqnGxU&t=1110s) - presentation about observability from the Dash conference that focuses on how to start with observability as well as what culture to establish so that it supports continuous learning in this field
+* [o11y.wiki](https://www.o11y.wiki/#/) - nice glossary of all terms related to observability - may be interesting to walk through
+* [Charity.wtf](https://charity.wtf/) - founder of honeycomb.io and a well-known persona in the observability space has her own blog where one can find some interesting thoughts on observability - I suggest you use this resource after you gain some essentials as otherwise it is too in-depth thus an alternative might be the below
+* [The Evolution of Observability Engineering](https://gotopia.tech/episodes/175/observability-engineering) - a walk through of observability conceptual essentials from the authors of the book Observability Engineering
+
 ## The Product
 ### General
 * [The Product Trio](https://www.producttalk.org/2021/05/product-trio/)
