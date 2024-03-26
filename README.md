@@ -74,9 +74,10 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Objective Key Results (OKRs)
 * [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
 * [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
+
 ## The Process
 ### Engineering Productivity
-* [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
+* [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics) - 
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
 * [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
 ### Engineering Culture
