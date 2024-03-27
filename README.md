@@ -77,12 +77,11 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ## The Process
 ### Engineering Productivity
-* [The Definitive Guide to DORA Metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics) - 
-* [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops)
-* [How To Calculate Velocity in Scrum](https://www.zeolearn.com/magazine/how-calculate-velocity-in-scrum)
+* [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops) - Very thorough guide on various aspects of implementing DevOps capabilities and how they were implemented at Google
+* [Velocity in Scrum: How to Measure and Improve Performance](https://www.atlassian.com/agile/project-management/velocity-scrum) - Explains what is team velocity used for and how to calculate it so that you get better insight on your team's performance
 ### Engineering Culture
-* [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
-* [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)
+* [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/) - Very thorough guide on fundamentals of software engineering culture and practices from an ISE team at Microsoft
+* [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns) - Great overview of patterns as well as anti-patterns that you, as an engineering leader, can see on yout team as a whole or on individual engineers and what to do about them
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
 * [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/)
