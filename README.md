@@ -67,13 +67,15 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ## The Product
 ### General
-* [The Product Trio](https://www.producttalk.org/2021/05/product-trio/)
+* [The Product Trio](https://www.producttalk.org/2021/05/product-trio/) - A short version of what a product trio is and why it is important to have it
+* [Refining Product Team Leadership in Software Engineering](https://medium.com/lego-engineering/refining-product-team-leadership-in-software-engineering-49ea582a808b) - My article about how we had to revisit our ways of working in a Product Trio (triarchy) in order to become even more efficient, decisive and supportive for our team
+* [Ask the EM: How Can I work Better with My Product Manager, as an Engineering Lead?](https://blog.pragmaticengineer.com/how-engineering-can-work-better-with-product-managers/) - Great article from Gergerly Orosz about how to establish smooth collaboration between product and engineering sides of the organization
 ### Prioritization & Roadmapping
-* [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/)
-* [Why “Now” “Next” “Later” is one of the best frameworks for roadmapping](https://medium.com/the-creative-strategist/why-now-next-later-is-one-of-the-best-frameworks-for-roadmapping-4d547a2f2692)
+* [Product Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/) - Fantastic and contained list of prioritization frameoworks that can help you with decision-making and even though they appear aimed for product managers, they are also very useful for any role
+* [Why “Now” “Next” “Later” is one of the best frameworks for roadmapping](https://medium.com/the-creative-strategist/why-now-next-later-is-one-of-the-best-frameworks-for-roadmapping-4d547a2f2692) - Very simple, yet powerful, method to plan your roadmap that does not tie you too much into a project management-like timeline while providing an understanding of what is the product team to do in a foreseeable future
 ### Objective Key Results (OKRs)
-* [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/)
-* [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
+* [How to Make Your Teams Beat OKRs](https://developers.mews.com/how-to-make-your-teams-beat-okrs/) - Amazing guide on how to get the most out of OKRs from Marian Kamenistak, an engineering leadership coach
+* [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0) - Camille Fournier, author of The Manager's Path, dives deep into why OKRs are sometimes very hard for teams to work with and what are the shortcomings of the OKR system
 
 ## The Process
 ### Engineering Productivity
@@ -83,9 +85,9 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/) - Very thorough guide on fundamentals of software engineering culture and practices from an ISE team at Microsoft
 * [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns) - Great overview of patterns as well as anti-patterns that you, as an engineering leader, can see on yout team as a whole or on individual engineers and what to do about them
 ### Agile Methodologies
-* [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays)
-* [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/)
-* [Lessons Learned in Dual Track Agile](https://medium.com/gitconnected/lessons-learned-in-dual-track-agile-0a275e558559)
+* [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays) - A funky youtube account talking about common challenges with agile in a relaxed yet interesting way
+* [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/) - A super-short summary of what is dual track agile and what it is used for
+* [Lessons Learned in Dual Track Agile](https://medium.com/gitconnected/lessons-learned-in-dual-track-agile-0a275e558559) - My own article about what lessons did we learn from implementing the dual track agile system in our team and what we plan to do next based on these learnings
 
 ## Personal Development
 ### General
