@@ -51,12 +51,13 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - the basics of architecture decision records (ADRs)
 * [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee) - more thoughts on architecture decision records (ADRs)
 * [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record) - more thoughts on architecture decision records (ADRs)
+* [What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/) - Back to the basics, a nice introduction to event-driven architectures from AWS perspective that further branches into example architecture and use cases when to adopt this architecture
 
 ### Version Control
-* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - 
-* [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
-* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
+* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - Deep dive into the different branching strategies in git specifically the contrast between trunk-based development and git/github flows
+* [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows) - Similar article like the previous one but has some nice visual explanations showing the branching strategies
+* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful) - interesting perspective on Gitflow being way too complex and unfit for modern software development; I tend to agree to the criticism presented here
+* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/) - this article nicely complements the previous one by simply stating the differences including the branching in visuals
 
 ### Observability
 * [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) - the main website of a widely used observability framework and toolkit that helps you collect and manage telemetry data like metrics, logs and traces and can be integrated in many widely used tools like Elastic
