@@ -51,12 +51,14 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - the basics of architecture decision records (ADRs)
 * [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee) - more thoughts on architecture decision records (ADRs)
 * [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record) - more thoughts on architecture decision records (ADRs)
+* [What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/) - Back to the basics, a nice introduction to event-driven architectures from AWS perspective that further branches into example architecture and use cases when to adopt this architecture
+* [Build highly available microservices to power applications of any size and scale.](https://aws.amazon.com/microservices/) - Another great and simple explanation from AWS, this time about microservices
 
 ### Version Control
-* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - 
-* [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
-* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/)
+* [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - Deep dive into the different branching strategies in git specifically the contrast between trunk-based development and git/github flows
+* [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows) - Similar article like the previous one but has some nice visual explanations showing the branching strategies
+* [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful) - interesting perspective on Gitflow being way too complex and unfit for modern software development; I tend to agree to the criticism presented here
+* [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/) - this article nicely complements the previous one by simply stating the differences including the branching in visuals
 
 ### Observability
 * [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) - the main website of a widely used observability framework and toolkit that helps you collect and manage telemetry data like metrics, logs and traces and can be integrated in many widely used tools like Elastic
@@ -85,6 +87,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Engineering Productivity
 * [Google - The DevOps Research and Assessment (DORA) - Technical Capabilities](https://cloud.google.com/architecture/devops) - Very thorough guide on various aspects of implementing DevOps capabilities and how they were implemented at Google
 * [Velocity in Scrum: How to Measure and Improve Performance](https://www.atlassian.com/agile/project-management/velocity-scrum) - Explains what is team velocity used for and how to calculate it so that you get better insight on your team's performance
+* [How Healthy Engineering Teams Invest Their Time](https://devinterrupted.substack.com/p/how-healthy-engineering-teams-invest?open=false#%C2%A7benchmarking-the-investment-practices-of-leading-teams) - Talks about how the Engineering Investment Metrics gives the needed control over how engineering efforts align with business objectives and also give the opportunity to benchmark teams
 ### Engineering Culture
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/) - Very thorough guide on fundamentals of software engineering culture and practices from an ISE team at Microsoft
 * [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns) - Great overview of patterns as well as anti-patterns that you, as an engineering leader, can see on yout team as a whole or on individual engineers and what to do about them
