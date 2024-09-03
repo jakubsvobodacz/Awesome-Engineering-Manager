@@ -115,6 +115,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/) - Online community with conferences in Europe and US
 * [ELC - Home for Engineering Leaders](https://elc.community/) - Online based community with meetups and conferences in US
 * [Engineering Leaders CZ](https://talkbase.io/company/engineering-leaders-cz) - In-person based community in Prague, CZ
+* [CTO Craft](https://ctocraft.com/) - In-person as well as online community for leaders in tech, specifically aimed on CTOs, originally from the UK but also other european capitals now
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
