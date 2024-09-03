@@ -45,6 +45,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ### Coding Practices
 * [Why You Should Use EditorConfig to Standardize Code Styles](https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/) - explains how the EditorConfig file can help to define formatting in your project files and also enforce the standard, so that all team members comply with it
+* [Survive The Bus Factor: Strategies For Protecting Your Codebase](https://www.forbes.com/councils/forbestechcouncil/2024/08/28/survive-the-bus-factor-strategies-for-protecting-your-codebase/) - the article highlights how risky it is to ignore the bus factor of your codebase and how does proprietary differ from open source in this context, furthermore, how you could mitigate such risks with appropriate coding practices
 
 ### Architecture
 * [Software architecture diagrams as text](https://dev.to/simonbrown/series/7622) - explains how to use Structurizr DSL to code and version control your software architecture diagrams
