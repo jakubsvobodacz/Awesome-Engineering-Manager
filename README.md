@@ -1,3 +1,4 @@
+![banner](/images/readme_banner.jpg)
 # Awesome Engineering Manager
 The aim of this repository is to provide a curated list of resources for, beginner as well as seasoned, software engineering managers. The repository will contain links to all interesting resources within categories that are part of the job of an engineering manager - **The Team, The Technology, The Product & The Process**. Contributions and feedback are welcomed!
 ## Table of Contents
