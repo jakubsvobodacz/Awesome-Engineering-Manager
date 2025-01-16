@@ -55,6 +55,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record) - more thoughts on architecture decision records (ADRs)
 * [What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/) - Back to the basics, a nice introduction to event-driven architectures from AWS perspective that further branches into example architecture and use cases when to adopt this architecture
 * [Build highly available microservices to power applications of any size and scale.](https://aws.amazon.com/microservices/) - Another great and simple explanation from AWS, this time about microservices
+* [Microservices vs Monolithic Architecture: A Practical Approach](https://dev.to/ssd/microservices-vs-monolithic-architecture-a-practical-approach-4m06) - good for understanding the practical trade-offs and strategies of microservices vs. monolithic architecture, helping engineering leader make informed decisions about scalability, flexibility, and system design
 
 ### Version Control
 * [Git Branching Strategies vs. Trunk-based Development](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - Deep dive into the different branching strategies in git specifically the contrast between trunk-based development and git/github flows
