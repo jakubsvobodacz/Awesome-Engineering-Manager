@@ -70,12 +70,6 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [Charity.wtf](https://charity.wtf/) - founder of honeycomb.io and a well-known persona in the observability space has her own blog where one can find some interesting thoughts on observability - I suggest you use this resource after you gain some essentials as otherwise it is too in-depth thus an alternative might be the below
 * [The Evolution of Observability Engineering](https://gotopia.tech/episodes/175/observability-engineering) - a walk through of observability conceptual essentials from the authors of the book Observability Engineering
 
-### AI
-*this section is subject to rapid change*
-* [Awesome Engineering Manager Custom GPT](https://chatgpt.com/g/g-yxX7WC2WG-awesome-engineering-manager) - A custom ChatGPT deployed on ChatGPT Marketplace that provides technical and managerial guidance with a focus on professional development. It is fully familiar with this repository and its contents as well as with all the recommended books
-* [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - A Practical Guide to Building Agents delivers clear, real‑world frameworks for designing safe, reliable AI agents and orchestrating multi‑step workflows. Engineering managers will value its focus on aligning technical strategy with team skills, planning resources, and simplifying stakeholder communication.
-
-
 ## The Product
 ### General
 * [The Product Trio](https://www.producttalk.org/2021/05/product-trio/) - A short version of what a product trio is and why it is important to have it
