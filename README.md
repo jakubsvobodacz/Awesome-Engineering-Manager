@@ -29,6 +29,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ### People Development
 * [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7) - Ikigai is a well-known japanese concept of finding the sweet spot of what you are good at, what you love, what the world needs and what can you get paid for; this article aims specifically on a software engineer's ikigai
+* [100x Software Engineering](https://betterstack.com/community/blog/100x-software-engineering/) - Great thinking by Juraj Masar, CEO of Betterstack, where he raises several views on how to recognize the best in class engineers - not necessarily by their ability to ship code fast but rather focusing on ability to do less while producing more and effectivrly avoiding over-engineering or re-inventing the wheel
 ### Career Track for Software Engineers
 * [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html) - a great example of career progression path from Etsy that is publicly available for inspiration
 * [EngineeringLadders.com](http://www.engineeringladders.com/) - great framework that helps out with planning career progression for software engineers
