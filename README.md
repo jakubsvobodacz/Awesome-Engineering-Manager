@@ -64,6 +64,9 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful) - interesting perspective on Gitflow being way too complex and unfit for modern software development; I tend to agree to the criticism presented here
 * [Git Flow vs Github Flow](https://www.geeksforgeeks.org/git-flow-vs-github-flow/) - this article nicely complements the previous one by simply stating the differences including the branching in visuals
 
+### AI-Assisted Development
+* [How Boris Cherny (creator of Claude Code) uses Claude Code](https://x.com/bcherny/status/2007179832300581177) - Boris Cherny, the creator of Claude Code, shares his personal setup and 13 practical tips including running parallel sessions with git worktrees, using Plan mode before auto-accept, creating custom slash commands, leveraging subagents for common tasks, integrating MCP servers for tools like Slack and Sentry, and setting up verification loops that can 2-3x the quality of AI-generated results
+
 ### Observability
 * [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) - the main website of a widely used observability framework and toolkit that helps you collect and manage telemetry data like metrics, logs and traces and can be integrated in many widely used tools like Elastic
 * [Observability: Building Organizational Understanding](https://www.youtube.com/watch?v=wgZhQtqnGxU&t=1110s) - presentation about observability from the Dash conference that focuses on how to start with observability as well as what culture to establish so that it supports continuous learning in this field
