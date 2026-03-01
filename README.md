@@ -26,6 +26,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Recruitment
 * [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066) - really handy summary of short advices to follow across many critical engineering management areas like communication, hiring, delivery, requirements management and many other
 * [How to make a job ad that no developer can resist](https://devskiller.com/developer-job-ad/) - highly recommend this article if you are writing your first job ad for a software engineer role; it comes with some foundational advice on what to make sure you include or exclude when forming your job ad
+* [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring across 6 dimensions, and 3 interviewer personas. Free first question.
 
 ### People Development
 * [Software Engineering and IKIGAI](https://jeewanthalahiru.medium.com/software-engineering-and-ikigai-4facafe7e9a7) - Ikigai is a well-known japanese concept of finding the sweet spot of what you are good at, what you love, what the world needs and what can you get paid for; this article aims specifically on a software engineer's ikigai
