@@ -66,6 +66,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ### AI-Assisted Development
 * [How Boris Cherny (creator of Claude Code) uses Claude Code](https://x.com/bcherny/status/2007179832300581177) - Boris Cherny, the creator of Claude Code, shares his personal setup and 13 practical tips including running parallel sessions with git worktrees, using Plan mode before auto-accept, creating custom slash commands, leveraging subagents for common tasks, integrating MCP servers for tools like Slack and Sentry, and setting up verification loops that can 2-3x the quality of AI-generated results
+* [Minions: Stripe's One-Shot, End-to-End Coding Agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) - how Stripe built custom AI coding agents that autonomously handle over a thousand pull requests weekly, working end-to-end from a Slack message to a reviewed PR within their massive proprietary codebase
 
 ### Observability
 * [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) - the main website of a widely used observability framework and toolkit that helps you collect and manage telemetry data like metrics, logs and traces and can be integrated in many widely used tools like Elastic
