@@ -104,6 +104,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### General
 * [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
 * [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring across 6 dimensions, and 3 interviewer personas. Free first question.
+* [Something Big Is Happening](https://shumer.dev/something-big-is-happening) - Matt Shumer argues that AI has reached an inflection point where it performs professional work independently, urging knowledge workers to start experimenting and adapting their careers now rather than waiting
 ### Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
