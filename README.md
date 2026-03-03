@@ -103,6 +103,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ## Personal Development
 ### General
 * [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
+* [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring across 6 dimensions, and 3 interviewer personas. Free first question.
 ### Recommended Books
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=xKqWTrRcF0&rank=1)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
@@ -118,6 +119,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [ELC - Home for Engineering Leaders](https://elc.community/) - Online based community with meetups and conferences in US
 * [Engineering Leaders CZ](https://talkbase.io/company/engineering-leaders-cz) - In-person based community in Prague, CZ
 * [CTO Craft](https://ctocraft.com/) - In-person as well as online community for leaders in tech, specifically aimed on CTOs, originally from the UK but also other european capitals now
+* [Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers. Weekly newsletter covering hiring, talent management, team execution, and leadership development.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
