@@ -142,7 +142,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Engineering Leadership Communities
 * [Leaddev - Learn effective engineering management and leadership](https://leaddev.com/) - Online community with conferences in Europe and US
 * [ELC - Home for Engineering Leaders](https://elc.community/) - Online based community with meetups and conferences in US
-* [Engineering Leaders CZ](https://talkbase.io/company/engineering-leaders-cz) - In-person based community in Prague, CZ
+* [Engineering Leaders Community (ELC)](https://www.engineeringleaders.io/) - In-person community for engineering leaders in Central Europe with 2,000+ members, monthly meetups in Prague and an annual conference
 * [CTO Craft](https://ctocraft.com/) - In-person as well as online community for leaders in tech, specifically aimed on CTOs, originally from the UK but also other european capitals now
 * [Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers. Weekly newsletter covering hiring, talent management, team execution, and leadership development.
 
