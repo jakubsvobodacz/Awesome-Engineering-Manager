@@ -98,6 +98,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 * [o11y.wiki](https://www.o11y.wiki/#/) - nice glossary of all terms related to observability - may be interesting to walk through
 * [Charity.wtf](https://charity.wtf/) - founder of honeycomb.io and a well-known persona in the observability space has her own blog where one can find some interesting thoughts on observability - I suggest you use this resource after you gain some essentials as otherwise it is too in-depth thus an alternative might be the below
 * [The Evolution of Observability Engineering](https://gotopia.tech/episodes/175/observability-engineering) - a walk through of observability conceptual essentials from the authors of the book Observability Engineering
+* [Less Noise, More Signal: Our Small AI Experiment Meets Monitoring](https://blog.rohlik.group/blog/autonomous-agents-continuous-improvement) - how a scheduled AI agent triages a team's daily Datadog alerts and error hotspots into real bugs, noise working as designed, or upstream problems it hands off - with monitor changes made as reviewed Terraform diffs and a deliberately lower merge rate the closer a change gets to production
 
 ## The Product
 ### General
