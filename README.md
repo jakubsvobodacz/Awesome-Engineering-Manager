@@ -62,6 +62,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 
 ### 1-1s
 * [How to Have More Effective One on One Meetings with Your Developers](https://waydev.co/one-on-one-developers/) - debates the basiscs of a 1-1 meeting for an engineering manager and his or her report e.g. why to even have 1-1 meeting regularly
+* [Check-in questions for team meetings, daily check-ins and 1:1s](https://eodly.io/templates/check-in-questions) - questions grouped by meeting type (team, daily, weekly, one-on-one, engineering), with notes on when to use them and which ones to leave out
 
 ## The Technology
 ### Code Reviews
