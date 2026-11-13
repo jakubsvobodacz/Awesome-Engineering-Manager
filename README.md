@@ -120,6 +120,7 @@ The aim of this repository is to provide a curated list of resources for, beginn
 ### Engineering Culture
 * [Microsoft - CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/) - Very thorough guide on fundamentals of software engineering culture and practices from an ISE team at Microsoft
 * [20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns) - Great overview of patterns as well as anti-patterns that you, as an engineering leader, can see on yout team as a whole or on individual engineers and what to do about them
+* [Relabel - Outcome Bias Demo](https://relabel.me/words/outcome-independence#demo) - Free no-login interactive simulation (Baron & Hershey, 1988) plus workplace boundary presets showing how downstream results distort evaluations of identical engineering and leadership decisions in retrospectives and post-incident reviews.
 ### Agile Methodologies
 * [Development that pays (Youtube)](https://www.youtube.com/@Developmentthatpays) - A funky youtube account talking about common challenges with agile in a relaxed yet interesting way
 * [Dual-Track Agile](https://www.productboard.com/glossary/dual-track-agile/) - A super-short summary of what is dual track agile and what it is used for
